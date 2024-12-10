@@ -21,15 +21,12 @@ Built with **Retrofit** to fetch data from the Weather API, this app offers real
 
 ### 🚀 Features
 - **Search for Locations**: Find weather details for any city or place.
-- **Weather Information**: View current weather, temperature, and conditions for any location.
+- **Weather Information**: View any location's current weather, temperature, and conditions.
 - **Intuitive UI**: Easy-to-use and clean user interface powered by Jetpack Compose.
 
 ### 🚧 Upcoming Features:
 1. **Pin Often Searched Places**: Quickly access frequently searched locations.
 2. **View Search History**: See and access your past searches.
 3. **7-Day Weather Forecast**: View a forecast for the next 7 days, including temperature, humidity, and conditions.
-
-### ⚠️ Important Notice:
-The weather data will be available until **7th December**. After that, the app will no longer fetch data due to the expiration of the free trial for the Weather API account. Please note that the data will no longer load after the trial period ends.
 
 ---
